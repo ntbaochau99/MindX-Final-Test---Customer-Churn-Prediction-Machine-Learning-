@@ -4,5 +4,4 @@ In this project, I worked with transactional customer data from a multinational 
 
 The primary objective was to develop a machine learning–based predictive model that estimates the likelihood of customer churn versus retention. The model’s outputs are intended to support the Strategy team in forecasting churn volume and designing targeted retention initiatives to improve customer loyalty and long-term business sustainability.
 
-Source Code: https://colab.research.google.com/drive/14HXBG27Coi9yEC1nWtUerOF61V61pwyD?usp=sharing
-
+**Source Code:** https://colab.research.google.com/drive/14HXBG27Coi9yEC1nWtUerOF61V61pwyD?usp=sharing
